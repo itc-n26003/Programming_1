@@ -14,4 +14,4 @@ while True:
             answer += num4[i]
         else:
             answer += 'X'
-        print('-> ' + answer)
+    print('-> ' + answer)
